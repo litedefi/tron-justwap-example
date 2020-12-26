@@ -10,3 +10,13 @@ Example on how to connect to just swap and get an token price.
    LINE OF CODE 43
  
 4 - CHECK THE VALUE ON CONSOLE.
+
+
+
+
+
+LIKE IT? 
+
+PAY ME A BEER 
+
+TRON -> TYJGxkxZshbCAt29fzXLJLayEzMw44VLUp
